@@ -1,3 +1,3 @@
 # Ripoff Wikipedia
  
-![screenshot]
+![screenshot](screenshot1.png)
